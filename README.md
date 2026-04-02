@@ -4,11 +4,11 @@
 
 But hidden inside many agreements are clauses that can:
 
-+ • Sell your data to third parties
-+ • Force arbitration (removing your right to sue)
-+ • Auto-renew subscriptions silently
-+ • Claim ownership of your content
-+ • Delete your account without refunds
++ Sell your data to third parties
++ Force arbitration (removing your right to sue)
++ Auto-renew subscriptions silently
++ Claim ownership of your content
++ Delete your account without refunds
 
 > So I built TermsGuard — an AI-powered Terms & Conditions analyzer.
 
