@@ -45,6 +45,8 @@ AI-powered Terms & Conditions analyser. Paste a URL or text and get a full plain
 > Feedback is welcome.
 ---
 
+Live: https://termguard-jet.vercel.app/
+
 ## Tech Stack
 
 | Layer    | Tech                          |
